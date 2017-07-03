@@ -1,0 +1,20 @@
+{
+	"version": "87",
+	"ap_version": "4.6.9",
+	"ap_version_code": 71,
+	"updatefile": "https://weakapp.github.io/easyreader/data/update_20170627.zip",
+	"dropjsons": [
+"qqxs.json",
+"45xs.json",
+"123yq.json"
+	],
+	"changelog": "
+<b>變更紀錄:</b><p>
+<b>版本: 87 - 20170627</b><br/>- 修正 '歡樂書客' 類別載入問題
+<br/><br/>
+<b>版本: 86 - 20170623</b><br/>+ 新增 '愛書吧' 支援<br/>+ 新增 '雲台書屋' 支援<br/>- 修正 '飛盧小說' 閱讀問題<br/>- 修正 '101 小說典藏網' 分類<br/>- 修正 '歡樂書客' 內文載入問題<br/>
+<br/><br/>
+
+"
+}
+

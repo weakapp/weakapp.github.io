@@ -1,0 +1,24 @@
+{
+	"version": "88_dev",
+	"ap_version": "4.6.9",
+	"ap_version_code": 71,
+	"updatefile": "https://weakapp.github.io/easyreader/data/update.zip",
+	"dropjsons": [
+"qqxs.json",
+"45xs.json",
+"123yq.json"
+	],
+	"changelog": "
+*********************************<br/>
+*<br/>
+* 此為測試版本, 非必要請勿更新.<br/>
+*<br/>
+*********************************<br/>
+<b>變更紀錄:</b><p>
+<<b>版本: 88_dev - 2017</b><br/>+ 調整 '百書樓' 使用網址<br/>- 修正 '炫浪網絡社區' 搜尋下一頁的問題<br/>- 修正 '飄天文學' 封面問題<br/>- 修正 '69 書吧' 內文載入問題
+<br/><br/>
+<b>版本: 87 - 20170627</b><br/>- 修正 '歡樂書客' 類別載入問題
+<br/><br/>
+
+"
+}
