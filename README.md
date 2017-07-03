@@ -1,6 +1,7 @@
 # Weakapp.github.io
 
-Put some resources I will use in my android applications.
+Put some resources I will use in my android applications. 
+
 Right now I am only working on one application
 
 + easyreader
@@ -11,6 +12,6 @@ Right now I am only working on one application
 
 There are two folders.
 
-+ apks - my released apks
++ apk - my released apks
 + data - zip files and others
 + jsons - plugins, sites and others jsons

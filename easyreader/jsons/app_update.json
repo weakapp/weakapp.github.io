@@ -1,0 +1,19 @@
+{
+	"version": "4.7.5",
+	"version_code" : 1,
+	"updatename": "EasyReader_4.7.5.apk",
+	"updatefile": "https://weakapp.github.io/easyreader/apk/EasyReader_4.7.5.apk",
+	"changelog": "
+<b>變更紀錄:</b><p>
+<b>v 4.7.5</b><br />+ 網站資料庫更新至 87<br />+ 我的書櫃加回排序選項<br />+ 最愛分類右邊選單新增檢查更新<br />+ 我的最愛加回最近閱讀的排序<br />+ 調整部份 UI<br /><b>BUGS</b><br />- 修正搜尋其他網站時會強制退出的問題<br />- 修正我的下載搜尋結果無法點入的問題<br />- 修正我的書櫃閱讀紀錄會多筆的問題<br />- 修正最愛/書櫃排序沒有顯示的問題<br />- 修正黑底, 最愛分類選取的問題<br />- 修正我的最愛搜尋結果無法加入分類
+<br/><br/>
+<b>v 4.7.4</b><br/><b>BUGS</b><br/>- 緊急修正搜尋全部網站錯誤的問題
+<br/><br/>
+<b>v 4.7.3</b><br/>+ 網站資料庫更新至 86<br/>+ 我的最愛新增作者顯示, 並可以在最愛小說右邊三個點點擊更多有選項.<br/>+ 新增封面編輯, 只針對我的最愛小說才可以操作, 最愛小說右邊三個點點擊更多有選項.<br/>+ 我的最愛移除最近閱讀排序, 因為此排序不正確也沒辦法修正, 請使用最近閱讀<br/>+ 我的書櫃調整使用方式改成匯入目錄, 並調整排序功能<br/>+ 調整部份 UI<br/>+ 調整獎勵廣告觀看上限<br/><br/><b>BUGS</b><br/>- 修正部份強制退出的問題
+<br/><br/>
+<p>
+下載網址:<br/>
+<a href='https://app.box.com/s/gajuoh3jqp9w72n9su3ii5r6rq0zh3jm'>Box</a><br/>
+<a href='https://pan.baidu.com/s/1eStKeu2'>百度雲</a>
+"
+}
