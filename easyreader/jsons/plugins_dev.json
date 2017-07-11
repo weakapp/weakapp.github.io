@@ -4,6 +4,7 @@
 	"ap_version_code": 71,
 	"updatefile": "https://weakapp.github.io/easyreader/data/update.zip",
 	"dropjsons": [
+"soudu.json"
 	],
 	"changelog": "
 *********************************<br/>
