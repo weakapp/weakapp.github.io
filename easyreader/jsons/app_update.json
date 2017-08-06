@@ -1,15 +1,15 @@
 {
-	"version": "4.7.6",
+	"version": "4.7.7",
 	"version_code" : 1,
-	"updatename": "EasyReader_4.7.6.apk",
-	"updatefile": "https://weakapp.github.io/easyreader/apk/EasyReader_4.7.6.apk",
+	"updatename": "EasyReader_4.7.7.apk",
+	"updatefile": "https://www.dropbox.com/s/22nf8jioskl81lr/EasyReader_4.7.7.apk?dl=1",
 	"changelog": "
 <b>變更紀錄:</b><p>
-<strong>v 4.7.6</strong><br />+ 更新網站資料庫至 88<br />+ 調整內文載入方式, 並且避免同時載入導致 app 出問題<br />+ 最愛頁面新增全部展開全部關閉選項<br />+ 新增設定可改變最愛分類開啟方式, 設定的最愛可調整<br />+ 我的最愛頁面小說新增簡介選單<br />+ 新增點擊備份檔可直接進入匯入畫面<br /><strong>BUGS</strong><br />- 修正部份強制退出的問題<br />- 修正我的最愛頁面顯示問題<br />- 修正部份操作的問題<br />- 修正我的書櫃刪除的問題<br />- 修正部份機型點擊文字檔無法開啟的問題<br />- 修正自訂封面的問題
+<strong>**v 4.7.7**</strong><br/>+ 更新網站資料庫至 89<br/>+ 我的小說新增書籤頁面. 方便讀取自訂書籤<br/><strong>**BUGS**</strong><br/>- 修正目錄權限上的錯誤導致可能強制退出的問題<br/>- 修正點擊書籤後, 內容不會自動載入的問題<br/>- 修正匯入檔案的問題<br/>- 修正部份錯誤<br/><p>
 <br/><br/>
 <p>
 下載網址:<br/>
-<a href='https://app.box.com/s/s2pyzmu5rp5dqzy1wdebwpt05860i3h5'>Box</a><br/>
-<a href='https://pan.baidu.com/s/1o85F6rS'>百度雲</a>
+<a href='https://app.box.com/s/6pf3t50u2ugk6b13sqcufae0w4wtwb7p'>Box</a><br/>
+<a href='https://pan.baidu.com/s/1qYz7IcW'>百度雲</a>
 "
 }
