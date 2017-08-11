@@ -1,15 +1,15 @@
 {
-	"version": "4.7.7",
+	"version": "4.7.8",
 	"version_code" : 1,
-	"updatename": "EasyReader_4.7.7.apk",
-	"updatefile": "https://www.dropbox.com/s/22nf8jioskl81lr/EasyReader_4.7.7.apk?dl=1",
+	"updatename": "EasyReader_4.7.8.apk",
+	"updatefile": "https://weakapp.github.io/easyreader/apk/EasyReader_4.7.8.apk",
 	"changelog": "
 <b>變更紀錄:</b><p>
-<strong>**v 4.7.7**</strong><br/>+ 更新網站資料庫至 89<br/>+ 我的小說新增書籤頁面. 方便讀取自訂書籤<br/><strong>**BUGS**</strong><br/>- 修正目錄權限上的錯誤導致可能強制退出的問題<br/>- 修正點擊書籤後, 內容不會自動載入的問題<br/>- 修正匯入檔案的問題<br/>- 修正部份錯誤<br/><p>
+<p><strong>v 4.7.8</strong><br /><strong>BUGS</strong><br />- 修正章節目錄位置不對的問題<br />- 修正音量鍵換頁會多翻一次頁的問題<br />- 修正閱讀文字檔內文分隔線問題<br />- 修正部份強制退出的問題<br />- 修正自動捲動的問題<br />- 修正電池顯示問題<br />- 修正書籤問題<br />- 修正有時退出鍵無法退出內文的問題<br /><p></p>
 <br/><br/>
 <p>
 下載網址:<br/>
-<a href='https://app.box.com/s/6pf3t50u2ugk6b13sqcufae0w4wtwb7p'>Box</a><br/>
-<a href='https://pan.baidu.com/s/1qYz7IcW'>百度雲</a>
+<a href='https://app.box.com/s/wa32dlf1a28d839lzauqrpo9carynqws'>Box</a><br/>
+<a href='https://pan.baidu.com/s/1i5QkG0P'>百度雲</a>
 "
 }
