@@ -1,15 +1,15 @@
 {
-	"version": "4.8.1",
+	"version": "4.8.2",
 	"version_code" : 1,
-	"updatename": "EasyReader_4.8.1.apk",
-	"updatefile": "https://weakapp.github.io/easyreader/apk/EasyReader_4.8.1.apk",
+	"updatename": "EasyReader_4.8.2.apk",
+	"updatefile": "https://weakapp.github.io/easyreader/apk/EasyReader_4.8.2.apk",
 	"changelog": "
 <b>變更紀錄:</b><p>
-<p><strong>v 4.8.1</strong><br />+ 更新網站資料庫至 91<br />*<em>BUGS</em><br />- 修正部份重新整理的問題<br />- 修正部份小說閱讀的問題<br /><p></p>
+<p><strong>v 4.8.2</strong><br />+ 更新網站資料庫至 92<br />+ 調整部份簡體慣用語<br />*<em>BUGS</em><br />- 修正文字檔未載入完全的問題<br />- 修正自動捲動時換頁點擊停止的問題<br />- 修正部份強制關閉的問題<br /><p></p>
 <br/><br/>
 <p>
 下載網址:<br/>
-<a href='https://app.box.com/s/twb9j3dt5yxy9bze5lkjj9h1e2v11at6'>Box</a><br/>
-<a href='https://pan.baidu.com/s/1hsvgiR6'>百度雲</a>
+<a href='https://app.box.com/s/aacbwe8tgg1rex0ftg0xd6l8wedirohb'>Box</a><br/>
+<a href='https://pan.baidu.com/s/1sk8MkYp'>百度雲</a>
 "
 }
