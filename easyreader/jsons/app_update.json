@@ -1,15 +1,15 @@
 {
-	"version": "4.8.3",
+	"version": "4.8.4",
 	"version_code" : 1,
-	"updatename": "EasyReader_4.8.3.apk",
-	"updatefile": "https://www.dropbox.com/s/xbns68gcvkhj3a9/EasyReader_4.8.3.apk?dl=0",
+	"updatename": "EasyReader_4.8.4.apk",
+	"updatefile": "https://weakapp.github.io/easyreader/apk/EasyReader_4.8.4.apk",
 	"changelog": "
 <b>變更紀錄:</b><p>
-<p><strong>v 4.8.3</strong><br />+ 新增輸入網址解析小說, 可在最愛或最近閱讀右上角三個點選擇<br />+ 新增可選擇小說背景圖, 內文左側選單的內文設定可選擇<br />+ 新增章節目錄顯示. 未閱讀顯示粗體, 閱讀過為一般<br /><strong>BUGS</strong><br />- 修正部份強制關閉的問題<br />- 修正設定目錄權限的問題<br />- 修正無法匯入前版的備份檔的問題<br />- 修正從我的下載加入最愛時, 已經在最愛的小說設定會消失的問題<br /><p></p>
+<p><strong>v 4.8.4</strong><br />+ 更新網站資料庫至 96<br /><strong>BUGS</strong><br />- 修正點擊文字檔, epub 無法用本軟體開啟的問題<br />- 修正部份網站文字大小不一致的問題<br />- 修正訊息提示圖示問題<br />- 修正 android 8.0 無法檢查小說更新的問題<br />- 修正檢查更新判斷 WIFI 連線的問題<br />- 修正搜尋時, 點擊分類搜尋結果會顯示全部的問題<br /><p></p>
 <br/><br/>
 <p>
 下載網址:<br/>
-<a href='https://app.box.com/s/fmfaeycvg0qi0ju6e1g4ll37ptcsalgx'>Box</a><br/>
-<a href='https://pan.baidu.com/s/1dFwDWfZ'>百度雲</a>
+<a href='https://app.box.com/s/bi4ufsecpvzln52e8okyumejfy4faz3r'>Box</a><br/>
+<a href='https://pan.baidu.com/s/1qXNfZJ2'>百度雲</a>
 "
 }
