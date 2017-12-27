@@ -1,5 +1,5 @@
 {
-	"version": "96_dev",
+	"version": "97_dev",
 	"ap_version": "4.8.0",
 	"ap_version_code": 82,
 	"updatefile": "https://weakapp.github.io/easyreader/data/update.zip",
@@ -12,9 +12,7 @@
 *<br/>
 *********************************<br/>
 <b>變更紀錄:</b><p>
-<b>版本: 96_dev - 2017</b><br/>- 修正 'UU 看書網' 解析問題<br/>- 修正 'CK101 卡提諾' 解析問題
-<br/><br/>
-<b>版本: 95 - 20171219</b><br/>+ 加回 '123 讀' 支援
+<b>版本: 97_dev - 2017</b><br/>+ 調整 '520 小說網' 內文改使用手機版
 <br/><br/>
 
 
