@@ -1,15 +1,15 @@
 {
-	"version": "5.0.7",
+	"version": "5.0.9",
 	"version_code" : 1,
-	"updatename": "EasyReader_5.0.7.apk",
-	"updatefile": "https://weakapp.github.io/easyreader/apk/EasyReader_5.0.7.apk"
+	"updatename": "EasyReader_5.0.9.apk",
+	"updatefile": "https://play.google.com/store/apps/details?id=tw.clotai.easyreader",
 	"changelog": "
 <b>變更紀錄:</b><p>
-<p><strong>v 5.0.7</strong><br /><strong>BUGS</strong><br />- 緊急修正設定到外部記憶體會強制關閉的問題<br />- 修正android 4.4 以前機型會強制關閉的問題<br /><p><br /><strong>v 5.0.5</strong><br />+ 更新網站資料庫至 103<br />+ 設定裡軟體頁面新增設定, 可開啟或關閉點擊小說連結解析<br /><strong>BUGS</strong><br />- 修正部份強制關閉問題<br />- 修正 epub 部份內文顯示問題<br />- 修正程式內解析網址的問題<br /><p></p>
+<p><strong>v 5.0.9</strong><br />+ 更新網站資料庫至 106<br /><strong>BUGS</strong><br />- 緊急修正設定到外部記憶體會無法讀寫的問題<br /><p><br /><strong>v 5.0.8</strong><br />+ 更新網站資料庫至 105<br />+ 新增網站篩選功能, 方便找尋網站列表中的某一網站<br />+ 新增閱讀時螢幕逾時的設定<br />+ 新增內文章節名稱捲動, 點擊內文章節名稱, 標題會捲動.<br />+ 下載管理, 章節新增選單可回報或使用瀏覽器開啟.<br />+ 我的下載, 新增排序功能<br /><strong>BUGS</strong><br />- 修正清除暫存方式避免誤刪除檔案<br />- 修正部份目錄權限相關問題<br />- 修正點擊檔案無法使用軟體開啟的問題<br />- 修正部份強制關閉問題<br />- 修正下載後章節有時不會出現在我的下載的問題<br />- 修正同步部份問題<br />- 修正匯入匯出的問題<br /><p></p>
 <br/><br/>
 <p>
 下載網址:<br/>
-<a href='https://app.box.com/s/ma1f9aeh3y3r4kqb84jkbwpnxibv9lf1'>Box</a><br/>
-<a href='https://pan.baidu.com/s/1TehPizb9V0PPGH6_mBM06Q'>百度雲</a>
+<a href='https://app.box.com/s/aqbac7sbmoff4ajw225nx8urjmwnc0cw'>Box</a><br/>
+<a href='https://pan.baidu.com/s/1wHd55kWKm9Hw0Rw99ye5BA'>百度雲</a>
 "
 }
