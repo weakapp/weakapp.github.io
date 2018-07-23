@@ -1,7 +1,7 @@
 {
-	"version": "106_dev",
-	"ap_version": "5.0.0",
-	"ap_version_code": 88,
+	"version": "107_dev",
+	"ap_version": "5.0.9",
+	"ap_version_code": 97,
 	"updatefile": "https://weakapp.github.io/easyreader/data/update.zip",
 	"dropjsons": [
 "dmzj.json",
@@ -14,7 +14,9 @@
 *<br/>
 *********************************<br/>
 <b>變更紀錄:</b><p>
-<b>版本: 106_dev - 2018</b><br/>- 調整 '69 書吧' 內文載入.
+<b>版本: 107_dev - 2018</b>- 再度調整 '69 書吧' 內文載入
+<br/><br/>
+<b>版本: 106 - 20180722</b>- 調整 '69 書吧' 內文載入
 <br/><br/>
 <b>版本: 105 - 20180720</b><br/>- 修正 '炫浪網絡社區' 解析網址問題<br/>- 修正 '卡提諾小說網' 搜尋問題<br/>- 移除 '動漫之家 - 輕小說' 支援<br/>- 移除 '魅族小說網' 支援
 <br/><br/>
