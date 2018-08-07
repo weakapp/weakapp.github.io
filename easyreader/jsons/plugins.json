@@ -1,8 +1,8 @@
 {
 	"version": "107",
-	"ap_version": "5.0.9",
-	"ap_version_code": 97,
-	"updatefile": "https://weakapp.github.io/easyreader/data/update_20180727.zip",
+	"ap_version": "5.0.7",
+	"ap_version_code": 95,
+	"updatefile": "https://weakapp.github.io/easyreader/data/update_20180730.zip",
 	"dropjsons": [
 "dmzj.json",
 "meizoo.json"
