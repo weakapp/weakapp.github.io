@@ -1,15 +1,15 @@
 {
-	"version": "5.1.2",
+	"version": "5.1.3",
 	"version_code" : 1,
-	"updatename": "EasyReader_5.1.2.apk",
+	"updatename": "EasyReader_5.1.3.apk",
 	"updatefile": "https://play.google.com/store/apps/details?id=tw.clotai.easyreader",
 	"changelog": "
 <b>變更紀錄:</b><p>
-<p><strong>v 5.1.2</strong><br /><strong>BUGS</strong><br />- 再度修正內文點擊上下頁以及圖檔的問題<br /><br/><strong>v 5.1.1</strong><br />+ 更新網站資料庫至 108<br />+ 圖檔開啟後，左滑即可關閉開啟畫面<br />+ 設定的操作新增圖檔開啟方式<br />+ 設定的閱讀新增圖檔背景顏色設定, 可固定灰底或者跟閱讀內文背景顏色一樣<br />+ 我的書櫃支援線上匯入文字檔<br /><strong>BUGS</strong><br />- 修正部份EPUB檔案無法讀取內文的問題<br />- 修正亮度調整的問題<br />- 修正點擊上下頁連結會再多跳頁的問題<br />- 修正檢查未訂閱更新的小說會強制關閉的問題<br />- 修正部份閱讀時強制關閉的問題<br />
+<p><strong>v 5.1.3</strong><br />+ 更新網站資料庫至 109<br />+ 加速軟體啟動<br />+ 閱讀部份加上畫面旋轉操作選項<br /><strong>BUGS</strong><br />- 修正無法設定使用 Immersive mode 的問題<br />- 修正開啟時的亮度問題<br />- 修正部份捲動會導致強制關閉的問題<br />- 修正部份導致強制關閉的問題<br />- 修正部份操作上的問題</p>
 <br/><br/>
 <p>
 下載網址:<br/>
-<a href='https://app.box.com/s/teoyncq3886a7ail8bu2l6fl16m31581'>Box</a><br/>
-<a href='https://pan.baidu.com/s/1UOZ2zNeenmWAtmEDIwvJ6Q'>百度雲</a>
+<a href='https://app.box.com/s/6eur08bhm68tdjz0cuhowzlyxz55co4c'>Box</a><br/>
+<a href='https://pan.baidu.com/s/1oUZeqH0GbIDffM12Bsy8xw'>百度雲</a>
 "
 }
