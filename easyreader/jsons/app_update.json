@@ -1,15 +1,15 @@
 {
-	"version": "5.1.5",
+	"version": "5.1.6",
 	"version_code" : 1,
-	"updatename": "EasyReader_5.1.5.apk",
+	"updatename": "EasyReader_5.1.6.apk",
 	"updatefile": "https://play.google.com/store/apps/details?id=tw.clotai.easyreader",
 	"changelog": "
 <b>變更紀錄:</b><p>
-<p><strong>v 5.1.5</strong><br />+ 更新網站資料庫至 110<br /><strong>BUGS</strong><br />- 緊急修正軟體開啟時的問題<br />- 修正部份導致強制關閉的問題<br /><p><br /><strong>v 5.1.4</strong><br /><strong>BUGS</strong><br />- 緊急修正部份影響閱讀的問題<br /><p><br /><strong>v 5.1.3</strong><br />+ 更新網站資料庫至 109<br />+ 加速軟體啟動<br />+ 閱讀部份加上畫面旋轉操作選項<br /><strong>BUGS</strong><br />- 修正無法設定使用 Immersive mode 的問題<br />- 修正開啟時的亮度問題<br />- 修正部份捲動會導致強制關閉的問題<br />- 修正部份導致強制關閉的問題<br />- 修正部份操作上的問題<br /><p></p>
+<p><strong>v 5.1.6</strong><br />+ 更新網站資料庫至 111<br /><strong>BUGS</strong><br />- 再度修正啟動軟體的問題<br />- 修正部份操作的問題<br /><p></p>
 <br/><br/>
 <p>
 下載網址:<br/>
-<a href='https://app.box.com/s/agkoxa6gvgy3h24n9n4cgrme4x8i8rtp'>Box</a><br/>
-<a href='https://pan.baidu.com/s/1uE9BbL30e9XkiBJ5W4QRxg'>百度雲</a>
+<a href='https://app.box.com/s/7wg8aiy9gih2g7nuycqiyu4g4nm0zx3m'>Box</a><br/>
+<a href='https://pan.baidu.com/s/1Ug9EgXcPxuFMw-qgFlWmkw'>百度雲</a>
 "
 }
