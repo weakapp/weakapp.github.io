@@ -1,15 +1,15 @@
 {
-	"version": "5.1.6",
+	"version": "5.1.7",
 	"version_code" : 1,
-	"updatename": "EasyReader_5.1.6.apk",
+	"updatename": "EasyReader_5.1.7.apk",
 	"updatefile": "https://play.google.com/store/apps/details?id=tw.clotai.easyreader",
 	"changelog": "
 <b>變更紀錄:</b><p>
-<p><strong>v 5.1.6</strong><br />+ 更新網站資料庫至 111<br /><strong>BUGS</strong><br />- 再度修正啟動軟體的問題<br />- 修正部份操作的問題<br /><p></p>
+<p><strong>v 5.1.7</strong><br />+ 更新網站資料庫至 112<br />+ 調整部份 UI<br /><strong>BUGS</strong><br />- 再度修正啟動軟體的問題<br />- 修正部份導致強制關閉的問題<br />- 修正獎勵廣告機制的問題<br /><p></p>
 <br/><br/>
 <p>
 下載網址:<br/>
-<a href='https://app.box.com/s/7wg8aiy9gih2g7nuycqiyu4g4nm0zx3m'>Box</a><br/>
-<a href='https://pan.baidu.com/s/1Ug9EgXcPxuFMw-qgFlWmkw'>百度雲</a>
+<a href='https://app.box.com/s/8aszxw6ckq3c1n9vjxtat4b70i1k0tmv'>Box</a><br/>
+<a href='https://pan.baidu.com/s/1JdtVzeyzzxKaXfQkWUwbwQ'>百度雲</a>
 "
 }
