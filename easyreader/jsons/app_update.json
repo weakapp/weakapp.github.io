@@ -1,15 +1,15 @@
 {
-	"version": "5.1.7",
+	"version": "5.1.8",
 	"version_code" : 1,
-	"updatename": "EasyReader_5.1.7.apk",
+	"updatename": "EasyReader_5.1.8.apk",
 	"updatefile": "https://play.google.com/store/apps/details?id=tw.clotai.easyreader",
 	"changelog": "
 <b>變更紀錄:</b><p>
-<p><strong>v 5.1.7</strong><br />+ 更新網站資料庫至 112<br />+ 調整部份 UI<br /><strong>BUGS</strong><br />- 再度修正啟動軟體的問題<br />- 修正部份導致強制關閉的問題<br />- 修正獎勵廣告機制的問題<br /><p></p>
+<p><strong>v 5.1.8</strong><br />+ 更新網站資料庫至 114<br />+ 新增朗讀功能<br />+ 調整亮度設定 UI<br />+ 調整部份 UI 操作<br />+ 調整繁簡體設定對應<br />+ 新增設定可以清除資料庫全部資料<br /><strong>BUGS</strong><br />- 再度修正啟動軟體的問題<br />- 修正部份導致強制關閉的問題<br />- 修正使用同步功能，最愛刪除後小說清單一樣會有星號的問題<br />- 修正匯出備份時，沒有備份最愛分類的問題<br />- 修正自動暫存的動作<br /><p>
 <br/><br/>
 <p>
 下載網址:<br/>
-<a href='https://app.box.com/s/8aszxw6ckq3c1n9vjxtat4b70i1k0tmv'>Box</a><br/>
-<a href='https://pan.baidu.com/s/1JdtVzeyzzxKaXfQkWUwbwQ'>百度雲</a>
+<a href='https://app.box.com/s/e07zm3ndwlewev4xu51r6cxl05x9zuy7'>Box</a><br/>
+<a href='https://pan.baidu.com/s/10UZvVovXgIxoivT7HUXtsw'>百度雲</a>
 "
 }
