@@ -1,15 +1,17 @@
 {
-	"version": "5.2.0",
-	"version_code" : 108,
-	"updatename": "EasyReader_5.2.0.apk",
+	"version": "5.2.1",
+	"version_code" : 109,
+	"updatename": "EasyReader_5.2.1.apk",
 	"updatefile": "https://play.google.com/store/apps/details?id=tw.clotai.easyreader",
 	"changelog": "
 <b>變更紀錄:</b><p>
+<p><strong>v 5.2.1</strong><br /><strong>BUGS</strong><br />- 修正部份機型調整系統字體大小，軟體不會跟著改變的問題<br />- 修正下方選單不會因為設定的選單自型大小而調整<br />- 修正部份字體大小問題<br />
+<br/><br/>
 <p><strong>v 5.2.0</strong><br />+ 更新網站資料庫至 116<br />+ 新增 App 語言設定<br />+ 調整部份操作畫面<br />+ 移除部份設定<br />+ 最近閱讀, 最愛支援標籤搜尋<br /><strong>BUGS</strong><br />- 修正部份機型會有卡頓的問題(未完全解決)<br />- 修正部份類別不能閱讀的問題<br />- 修正自動暫存設定影響離線閱讀的問題<br />- 修正閱讀內文時登出會強制退出的問題<br />
 <br/><br/>
 <p>
 下載網址:<br/>
-<a href='https://app.box.com/s/oee3mrb97u9saiy9iwuw11sh826vvo20'>Box</a><br/>
-<a href='https://pan.baidu.com/s/1R3Btc1Mu0DU1w-xjg3vudw'>百度雲</a>
+<a href='https://app.box.com/s/4fesf2qo7b0pvlkgsps9rwd05hkjbbqf'>Box</a><br/>
+<a href='https://pan.baidu.com/s/1oiJGgYzl3q5YAxX14Uir1g'>百度雲</a>
 "
 }
