@@ -1,17 +1,17 @@
 {
-	"version": "5.2.1",
-	"version_code" : 109,
-	"updatename": "EasyReader_5.2.1.apk",
+	"version": "5.3.0",
+	"version_code" : 1,
+	"updatename": "EasyReader_5.3.0.apk",
 	"updatefile": "https://play.google.com/store/apps/details?id=tw.clotai.easyreader",
 	"changelog": "
 <b>變更紀錄:</b><p>
-<p><strong>v 5.2.1</strong><br /><strong>BUGS</strong><br />- 修正部份機型調整系統字體大小，軟體不會跟著改變的問題<br />- 修正下方選單不會因為設定的選單自型大小而調整<br />- 修正部份字體大小問題<br />
+<p><strong>v 5.3.0</strong><br />+ 更新網站資料庫至 118<br />+ 書櫃新增匯入檔案的功能<br />+ 書籤新增編輯描述的功能<br /><strong>BUGS</strong><br />- 修正 app 語言設定的問題<br />- 修正電量不同步的問題<br />- 修正部份內文分頁閱讀紀錄的問題<br />- 修正部份確認視窗按取消一樣執行動作的問題<br />- 修正部份強制關閉的問題<br />- 修正 android 4.x 版本刪除最愛會強制關閉的問題<br />- 修正部份朗讀時導致強制關閉的問題<br />- 修正從雲端匯入設定備份檔時判斷錯誤的問題<br /><p></p>
 <br/><br/>
-<p><strong>v 5.2.0</strong><br />+ 更新網站資料庫至 116<br />+ 新增 App 語言設定<br />+ 調整部份操作畫面<br />+ 移除部份設定<br />+ 最近閱讀, 最愛支援標籤搜尋<br /><strong>BUGS</strong><br />- 修正部份機型會有卡頓的問題(未完全解決)<br />- 修正部份類別不能閱讀的問題<br />- 修正自動暫存設定影響離線閱讀的問題<br />- 修正閱讀內文時登出會強制退出的問題<br />
+<p><strong>v 5.2.1</strong><br /><strong>BUGS</strong><br />- 修正部份機型調整系統字體大小，軟體不會跟著改變的問題<br />- 修正下方選單不會因為設定的選單自型大小而調整<br />- 修正部份字體大小問題<br />
 <br/><br/>
 <p>
 下載網址:<br/>
-<a href='https://app.box.com/s/4fesf2qo7b0pvlkgsps9rwd05hkjbbqf'>Box</a><br/>
-<a href='https://pan.baidu.com/s/1oiJGgYzl3q5YAxX14Uir1g'>百度雲</a>
+<a href='https://app.box.com/s/3z7a4zfx96qnq33g0p2yn4jslqhe5mqg'>Box</a><br/>
+<a href='https://pan.baidu.com/s/1PfuTyE2vjxfsS2y4WdbIRQ'>百度雲</a>
 "
 }
