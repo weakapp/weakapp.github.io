@@ -1,27 +1,16 @@
 {
-	"version": "119",
+	"version": "120",
 	"ap_version": "5.0.7",
 	"ap_version_code": 95,
-	"updatefile": "https://weakapp.github.io/easyreader/data/update_20190204.zip",
+	"updatefile": "https://weakapp.github.io/easyreader/data/update_20190221.zip",
 	"dropjsons": [
-"dmzj.json",
-"meizoo.json",
-"360dxs.json",
-"5ccc.json",
-"tianyibook.json",
-"read789.json",
-"cuiweiju.json",
-"daomuxiaoshuo.json",
-"wangshuge.json",
-"xvna.json",
-"ybdu.json",
-"yishuge.json"
+"danmeila.json"
 	],
 	"changelog": "
 <b>變更紀錄:</b><p>
-<b>版本: 119 - 20190204</b><br/>+ 加回 '一書閣' 支援<br/>- 調整 '飄天文學' 使用網址<br/>- 調整 '鉛筆小說網' 使用網址<br/>- 調整 '風云小說網' 使用網址<br/>- 修正 'Bestory 精品文學' 朗讀的問題<br/>- 修正 '小說屋' 分頁問題<br/>- 修正 '縱橫小說網' 部份小說章節目錄以及內文問題
+<b>版本: 120 - 20190221</b><br/>+ 新增 '4K 文學' 支援<br/>+ 新增 '親小說網' 解析<br/>+ 新增 '飯飯小說社區' 解析<br/>+ 支援 '繁體小說網' 驗證<br/>- 移除 '耽美啦小說網' 支援<br/>- 再度修正 'Bestory 精品文學' 朗讀的問題<br/>- 修正 '全本小說網 [Quanben5]' 朗讀問題<br/>- 修正 '紫幽閣' 搜尋問題
 <br/><br/>
-<b>版本: 118 - 20190121</b>+ 調整 'とある魔術の禁書目録' 使用網址- 修正 '思兔' 網站分類問題- 修正 '長佩文學' 因改版導致無法使用的問題- 修正 '不可能世界' 搜尋問題<br/>- 修正部份網站小說分類<br/>- 再度修正 '鉛筆小說網' 內文分頁問題
+<b>版本: 119 - 20190204</b><br/>+ 加回 '一書閣' 支援<br/>- 調整 '飄天文學' 使用網址<br/>- 調整 '鉛筆小說網' 使用網址<br/>- 調整 '風云小說網' 使用網址<br/>- 修正 'Bestory 精品文學' 朗讀的問題<br/>- 修正 '小說屋' 分頁問題<br/>- 修正 '縱橫小說網' 部份小說章節目錄以及內文問題
 <br/><br/>
 "
 }
