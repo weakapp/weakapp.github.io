@@ -4,7 +4,9 @@
 	"ap_version_code": 95,
 	"updatefile": "https://weakapp.github.io/easyreader/data/update.zip",
 	"dropjsons": [
-"danmeila.json"
+"danmeila.json",
+"23zw.json",
+"x69shu.json"
 	],
 	"changelog": "
 *********************************<br/>
