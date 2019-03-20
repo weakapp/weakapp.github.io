@@ -1,14 +1,14 @@
 {
-	"version": "5.3.3",
+	"version": "5.3.4",
 	"version_code" : 1,
-	"updatename": "EasyReader_5.3.3.apk",
+	"updatename": "EasyReader_5.3.4.apk",
 	"updatefile": "https://play.google.com/store/apps/details?id=tw.clotai.easyreader",
 	"changelog": "
 <b>變更紀錄:</b><p>
-<p><strong>v 5.3.3</strong><br />+ 更新網站資料庫至 120<br />+ 新增編輯最愛小說標題的功能(小說右邊三個點選擇更多)<br /><strong>BUGS</strong><br />- 修正部份強制關閉的問題<br />- 修正顯示相關問題<br />- 修正廣告聲音問題<br />- 修正部份 EPUB 小說問題<br />- 修正下載管理員全部清除無效的問題</p>
+<p><strong>v 5.3.4</strong><br />+ 更新網站資料庫至 121<br />+ 自動紀錄朗讀速度<br /><strong>BUGS</strong><br />- 修正部份強制關閉的問題<br />- 修正 EPub 內文顯示格式問題<br /><p></p>
 <p>
 下載網址:<br/>
-<a href='https://app.box.com/s/zmun2dhhhyjtceyicjyiiwlne9d27vj7'>Box</a><br/>
-<a href='https://pan.baidu.com/s/1Cwmww9DL8BlDBXs09-2NUA'>百度雲</a>
+<a href='https://app.box.com/s/ilhoyzhtg1aorwmiijhjedehxnqcbsx6'>Box</a><br/>
+<a href='https://pan.baidu.com/s/1g02ZUDNPQ6C1QErICDOtgw'>百度雲</a>
 "
 }
