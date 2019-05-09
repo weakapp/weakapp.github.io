@@ -1,13 +1,12 @@
 {
-	"version": "5.3.5",
-	"version_code" : 115,
-	"updatename": "EasyReader_5.3.5.apk",
+	"version": "5.3.6",
+	"version_code" : 116,
+	"updatename": "EasyReader_5.3.6.apk",
 	"updatefile": "https://play.google.com/store/apps/details?id=tw.clotai.easyreader",
 	"changelog": "
 <b>變更紀錄:</b><p>
-<p><strong>v 5.3.5</strong><br />+ 更新網站資料庫至 122<br />+ 新增 app 底色, 閱讀日夜間模式自動切換功能<br /><strong>BUGS</strong><br />- 修正部份強制關閉的問題 <br />- 修正部份 EPub 內文顯示格式問題<br />- 修正部份文字檔章節目錄以及內文顯示問題<br />
-<p>
+<p><strong>v 5.3.6</strong><br />+ 更新網站資料庫至 123<br />+ 新增設定，朗讀時降低螢幕亮度<br /><strong>BUGS</strong><br />- 修正部份強制關閉的問題 <br />- 修正使用網址解析時, app 底色自動切換的問題<br />- 修正部份機型廣告發出聲音的問題<br />- 修正朗讀會一直重複跳回的問題<br />- 修正跳樓層會跳回的問題<br /><p></p>
 下載網址:<br/>
-<a href='https://app.box.com/s/zjhh08irw5y4c7jdh1irh3c6ywi0sjua'>Box</a><br/>
+<a href='https://app.box.com/s/p6s8wtzoii3gfs663pbl0s0iwike21t9'>Box</a><br/>
 "
 }
