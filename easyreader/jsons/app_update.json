@@ -1,12 +1,12 @@
 {
-	"version": "5.3.7",
-	"version_code" : 117,
-	"updatename": "EasyReader_5.3.7.apk",
+	"version": "5.5.4",
+	"version_code" : 129,
+	"updatename": "EasyReader_5.5.4.apk",
 	"updatefile": "https://play.google.com/store/apps/details?id=tw.clotai.easyreader",
 	"changelog": "
 <b>變更紀錄:</b><p>
-<p><strong>v 5.3.7</strong><br />+ 更新網站資料庫至 125<br />+ 支援瀏海屏顯示設定，在設定的閱讀可調整<br /><strong>BUGS</strong><br />- 修正部份強制關閉的問題<br />- 修正驗證問題<br />- 修正部份 Epub 檔案無法解析的問題<br />- 修正部份自動下載章節的問題<br /><p></p>
+<p><strong>v 5.5.4</strong><br />+ 更新網站資料庫至 141<br /><strong>BUGS</strong><br />- 修正部份強制關閉的問題</p><p><strong>v 5.5.3</strong><br />+ 更新網站資料庫至 140<br />+ 新增文字檔章節目錄可選取清除閱讀紀錄的功能<br />+ 新增清除搜尋歷使用紀錄的確認視窗<br /><strong>BUGS</strong><br />- 修正最愛分類如果設定頁面會打不開的問題<br />- 修正跳下一個文字檔的問題<br />- 修正當最愛小說太多時會導致搜尋嚴重遲鈍的問題<br />- 修正載入逾時機制<br />- 修正小說更新時自動下載的部份問題<br />- 修正部份朗讀功能<br />- 修正文字檔重複的問題</p>
 下載網址:<br/>
-<a href='https://app.box.com/s/jloh3474bc9m6tww8x9fkbe4vd83dh5r'>Box</a><br/>
+<a href='https://app.box.com/s/w3k0z7hezpalyjau7oz1hnzsrv7n5fhz'>Box</a><br/>
 "
 }
