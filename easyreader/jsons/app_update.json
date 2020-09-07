@@ -1,12 +1,12 @@
 {
-	"version": "5.5.6",
-	"version_code" : 131,
-	"updatename": "EasyReader_5.5.6.apk",
+	"version": "5.5.7",
+	"version_code" : 132,
+	"updatename": "EasyReader_5.5.7.apk",
 	"updatefile": "https://play.google.com/store/apps/details?id=tw.clotai.easyreader",
 	"changelog": "
 <b>變更紀錄:</b><p>
-<strong>v 5.5.6</strong><br/>+ 更新資料庫至 145<br/>+ 朗讀新增設定，可以設定返回鍵停止朗讀<br/>+ 朗讀新增設定，可測試朗讀速度<br/><strong>BUGS</strong><br/>- 修正部份強制關閉的問題</p>
+<p><strong>v 5.5.7</strong><br/>+ 更新資料庫至 146<br/>+ 調整流程以便更方便操作<br/><strong>BUGS</strong><br/>- 修正部份強制關閉的問題</p>
 下載網址:<br/>
-<a href='https://app.box.com/s/rxolpubdwhoytw8x4zcpselfi6i2bazq'>Box</a><br/>
+<a href='https://app.box.com/s/nbx4jo3v55vqd8vypd2mi5dw7s4cljdt'>Box</a><br/>
 "
 }
