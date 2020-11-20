@@ -1,12 +1,12 @@
 {
-	"version": "5.6.1",
-	"version_code" : 136,
-	"updatename": "EasyReader_5.5.8.apk",
+	"version": "5.6.3",
+	"version_code" : 138,
+	"updatename": "EasyReader_5.6.3.apk",
 	"updatefile": "https://play.google.com/store/apps/details?id=tw.clotai.easyreader",
 	"changelog": "
 <b>變更紀錄:</b><p>
-<p><strong>v 5.6.1</strong><br/>+ 更新資料庫至 149<br/>+ 朗讀新增設定, 可關閉背景朗讀<br/>+ 內文朗讀畫面，新增朗讀速度設定<br/><strong>BUGS</strong><br/>- 修正 android 10 以上使用問題<br/>- 修正部份強制關閉的問題</p>
+<p><strong>v 5.6.3</strong><br/><strong>BUGS</strong><br/>- 修正部份設備點擊小說強制關閉的問題<br/>- 修正預設目錄刪除暫存的問題<br/>- 修正內文插圖顯示問題</p><p><strong>v 5.6.2</strong><br/>+ 更新資料庫至 150<br/><strong>BUGS</strong><br/>- 修正部份強制關閉的問題<br/>- 修正 android 10 以下字型設定問題<br/>- 修正部份章節目錄判斷錯誤問題<br/>- 修正朗讀停止相關的問題<br/>- 修正清除閱讀紀錄的問題</p>
 下載網址:<br/>
-<a href='https://app.box.com/s/zz7pf4sf8ojz6xupw4r2450ajmgb38ft'>Box</a><br/>
+<a href='https://app.box.com/s/dqep4nqpnqzy6vii30gx8plynh11nlsf'>Box</a><br/>
 "
 }
