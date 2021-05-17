@@ -4,14 +4,8 @@
 	"ap_version_code": 117,
 	"updatefile": "https://weakapp.github.io/easyreader/data/update_x.zip",
 	"dropjsons": [
-"ikshu8.json",
-"phpwx.json",
-"zhuishubox.json",
-"96kanshu.json",
-"ymlt.json",
-"5gxsw.json",
-"aikanshubacc.json",
-"aikshu8.json"
+"day66.json",
+"daomengren.json"
 	],
 	"changelog": "
 *********************************<br/>
