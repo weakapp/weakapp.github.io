@@ -2,7 +2,7 @@
 	"version": "159",
 	"ap_version": "5.3.7",
 	"ap_version_code": 117,
-	"updatefile": "Couldn't get shared link: Unknown Error",
+	"updatefile": "https://weakapp.github.io/easyreader/data/update_20210712_x.zip",
 	"dropjsons": [
 "day66.json",
 "daomengren.json",
