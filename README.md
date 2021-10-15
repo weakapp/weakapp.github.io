@@ -2,7 +2,7 @@
 
 Put some resources I will use in my android applications. 
 
-Right now I am only working on one application
+Right now I am only working on these applications
 
 + easyreader
 
