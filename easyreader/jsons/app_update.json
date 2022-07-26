@@ -1,12 +1,12 @@
 {
-	"version": "5.7.2",
-	"version_code" : 146,
-	"updatename": "EasyReader_5.7.2.apk",
+	"version": "5.7.6",
+	"version_code" : 150,
+	"updatename": "EasyReader_5.7.6.apk",
 	"updatefile": "https://play.google.com/store/apps/details?id=tw.clotai.easyreader",
 	"changelog": "
 <b>變更紀錄:</b><p>
-<p><strong>v 5.7.2</strong><br/><strong>BUGS</strong><br/>- 修正部份強制關閉的問題<br/>- 修正分類只能輸入數字的問題<br/>- 修正部份操作與顯示問題</p><p><strong>v 5.7.0</strong><br/>+ 更新網站資料庫至 157<br/>+ 加入最愛的小說新增編輯功能<br/><strong>BUGS</strong><br/>- 修正部份強制關閉的問題<br/>- 修正分頁小說最後閱讀紀錄的問題<br/>- 修正刪除暫存的問題<br/>- 修正 epub 內文句點不見的問題<br/>- 修正部份書籤操作問題<br/>- 修正載入小說速度問題</p>
+<p><strong>v 5.7.6</strong><br/>+ 更新網站資料庫至 162<br/><strong>BUGS</strong><br/>- 修正部份強制關閉的問題<br/>- 修正部分閱讀紀錄問題<br/>- 修正啟動朗讀後退出可能導致強制關閉的問題<br/>- 修正解析網址輸入長度的問題</p><p><strong>v 5.7.4</strong><br/>+ 更新網站資料庫至 161<br/>+ 書籤新增設定可預設展開書籤<br/>+ 設定的操作新增設定，可調整選單放置左側或右側<br/>+ 朗讀新增時間限制跟來電時停止朗讀功能。可至設定的操作裡面的朗讀調整。<br/>+ 設定的閱讀新增設定，可設定是否顯示內文書籤圖示。<br/><strong>BUGS</strong><br/>- 修正部分論壇舊格式資料讀取問題<br/>- 修正部份強制關閉的問題<br/>- 修正部份朗讀的問題<br/>- 修正解析文件的問題<br/>- 修正內文載入的問題<br/>- 修正閱讀紀錄的問題<br/>- 修正部份操作, 顯示問題<br/>- 修正最愛分類沒選取導致強制關閉的問題<br/>- 修正書籤問題</p>
 下載網址:<br/>
-<a href='https://app.box.com/s/h4wbfbhf2b3d3ms17rtknyko7xm6v8c4'>Box</a><br/>
+<a href='https://app.box.com/s/7c611sg52bgvrbissmk0b4wu438l6mtk'>Box</a><br/>
 "
 }
