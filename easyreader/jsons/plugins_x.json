@@ -2,7 +2,7 @@
 	"version": "172",
 	"ap_version": "5.3.7",
 	"ap_version_code": 117,
-	"updatefile": "",
+	"updatefile": "https://weakapp.github.io/easyreader/jsons/update_20221026_x.zip",
 	"dropjsons": [
 "14xsw.json",
 "18xsorg.json",
