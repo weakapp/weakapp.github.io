@@ -1,12 +1,12 @@
 {
-	"version": "5.9.2",
-	"version_code" : 166,
-	"updatename": "EasyReader_5.9.2.apk",
+	"version": "5.9.4",
+	"version_code" : 170,
+	"updatename": "EasyReader_5.9.4.apk",
 	"updatefile": "https://play.google.com/store/apps/details?id=tw.clotai.easyreader",
 	"changelog": "
-<b>變更紀錄:</b><p>
-<p><strong>v 5.9.2</strong><br/>+ 更新網站資料庫至 178<br/>+ 朗讀新增可設定是否朗讀章節名稱<br/>+ 調整文字檔內文顯示<br/>+ 朗讀支援有線耳機移除時停止<br/>+ 朗讀支援耳機操作停止或播放<br/><strong>BUGS</strong><br/>- 修正部分 epub 章節目錄載入問題<br/>- 修正單一網站搜尋問題<br/>- 修正解析文字檔問題<br/></p>
+<b>變更紀錄:</b>
+**v 5.9.4**<br/>**BUGS**<br/>- 修正部份強制關閉的問題<br/>- 修正分頁朗讀的問題<br/>- 修正部分內文閱讀紀錄的問題<br/>- 修正閱讀內文選單設定在右側會導致強制關閉的問題<br/><br/>**v 5.9.3**<br/>+ 更新網站資料庫至 181<br/>+ 新增功能朗讀時可不偵測是否移除有線耳機<br/>**BUGS**<br/>- 修正部份強制關閉的問題<br/>- 修正 EPub 背景朗讀問題<br/>- 修正部分 EPub 圖檔放大顯示問題
 下載網址:<br/>
-<a href='https://filedn.eu/lkmMcadBs8d0YgVFV06o3vV/easyreader/apps/EasyReader_5.9.2.apk'>PCloud</a>　|　<a href='https://app.box.com/s/bws389zmj6rte7056fpnq38br779f12k'>Box</a><br/>
+<a href='https://filedn.eu/lkmMcadBs8d0YgVFV06o3vV/easyreader/apps/EasyReader_5.9.4.apk'>PCloud</a>　|　<a href='https://app.box.com/s/09d7upb58qof668noii4x1l445uctp7r'>Box</a><br/>
 "
 }
