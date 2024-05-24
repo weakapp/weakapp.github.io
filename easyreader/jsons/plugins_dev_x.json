@@ -1,12 +1,14 @@
 {
-	"version": "186_dev_30_g3babc",
+	"version": "186_dev_38_ga5a1e",
 	"ap_version": "5.3.7",
 	"ap_version_code": 117,
 	"updatefile": "https://weakapp.github.io/easyreader/jsons/update_x.zip",
 	"dropjsons": [
 "xbiquge_la.json",
 "kygnew.json",
-"69shuorg.json"
+"69shuorg.json",
+"520banxia.json",
+"yipinxia.json"
 	],
 	"changelog": "
 *********************************<br/>
@@ -17,7 +19,7 @@
 <br/>
 <br/>
 <b>變更紀錄:</b><p>
-<b>版本: 186_dev_30_g3babc - 2024</b><br/>+ 調整 '69 書吧', '廢文網', '69 書吧 [69shux.net]' 網址
+<b>版本: 186_dev_38_ga5a1e - 2024</b><br/>+ 新增 '歆笙' 支援<br/>+ 調整 '69 書吧', '廢文網', '69 書吧 [69shux.net]' 網址<br/>- 移除 '半夏小說 [520banxia]', '一品俠' 支援
 <br/><br/>
 <b>版本: 185 - 20240506</b><br/>+ 支援 '沉浮婚姻' 解析<br/>+ 新增 '69 書吧 [69shux.com]', '筆趣閣 [ilovemylife920.com]', '6G小說網', '耽美小說', '頂點小說 [booktxts.com]' 支援<br/>+ 調整 '書庫網', '新完本神站', '蘭蘭文學', '龍王傳說網', '52 書庫 [52shuku123.net]', '妙筆文學網', '文學館', '看書吧', '書閱屋', '筆趣閣 [fd80]', '筆趣閣 [xbiquge.cc]', '飄天文學 [ptwxz.net]', '69 書吧', '飄天文學 [xpiaotian]', '筆趣閣 [bqg9527]', '可樂小說網', '六零看書', '愛我小說網' 使用網址<br/>- 移除 '新筆趣閣 [xbiquge.la]', '新卡夜閣', '69 書吧 [69shu.org]' 支援<br/>- 移除 '台灣小說網', '三八小說' 搜尋支援<br/>- 修正 '大家讀書院' 搜尋驗證問題<br/>- 修正 '豆豆小說閱讀網' 驗證問題<br/>- 修正 '可樂小說網' 亂碼問題<br/>- 修正 '飛速中文網' 內文亂碼問題<br/>- 修正 '書庫網', '百文齋' 驗證問題<br/>- 修正部份朗讀問題<br/>- 修正 '愛尋書' 第一頁內文問題<br/>- 修正 '思兔閱讀 [sto520]' 章節目錄問題
 <br/><br/>
