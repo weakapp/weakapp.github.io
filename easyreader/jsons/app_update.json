@@ -1,12 +1,12 @@
 {
-	"version": "5.9.4",
-	"version_code" : 170,
-	"updatename": "EasyReader_5.9.4.apk",
+	"version": "5.9.6",
+	"version_code" : 174,
+	"updatename": "EasyReader_5.9.6.apk",
 	"updatefile": "https://play.google.com/store/apps/details?id=tw.clotai.easyreader",
 	"changelog": "
 <b>變更紀錄:</b>
-**v 5.9.4**<br/>**BUGS**<br/>- 修正部份強制關閉的問題<br/>- 修正分頁朗讀的問題<br/>- 修正部分內文閱讀紀錄的問題<br/>- 修正閱讀內文選單設定在右側會導致強制關閉的問題<br/><br/>**v 5.9.3**<br/>+ 更新網站資料庫至 181<br/>+ 新增功能朗讀時可不偵測是否移除有線耳機<br/>**BUGS**<br/>- 修正部份強制關閉的問題<br/>- 修正 EPub 背景朗讀問題<br/>- 修正部分 EPub 圖檔放大顯示問題
+<p><strong>v 5.9.6</strong><br/>+ 更新網站資料庫至 186<br/>+ 調整部份選單<br/>+ 新增內容來源選擇(只支援部份網站)<br/><strong>BUGS</strong><br/>- 修正部份強制關閉的問題<br/>- 修正部份朗讀問題<br/></p>
 下載網址:<br/>
-<a href='https://filedn.eu/lkmMcadBs8d0YgVFV06o3vV/easyreader/apps/EasyReader_5.9.4.apk'>PCloud</a>　|　<a href='https://app.box.com/s/09d7upb58qof668noii4x1l445uctp7r'>Box</a><br/>
+<a href='https://filedn.eu/lkmMcadBs8d0YgVFV06o3vV/easyreader/apps/EasyReader_5.9.6.apk'>PCloud</a>　|　<a href='https://app.box.com/s/pn8mg70olwr5t0ihlezyeyviui09rnwu'>Box</a><br/>
 "
 }
