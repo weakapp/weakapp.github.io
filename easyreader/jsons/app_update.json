@@ -1,12 +1,12 @@
 {
-	"version": "5.9.7",
-	"version_code" : 178,
-	"updatename": "EasyReader_5.9.7.apk",
+	"version": "6.0.0-4-gc7557M",
+	"version_code" : 181,
+	"updatename": "EasyReader_6.0.0.apk",
 	"updatefile": "https://play.google.com/store/apps/details?id=tw.clotai.easyreader",
 	"changelog": "
 <b>變更紀錄:</b>
-**v 5.9.7**<br/>+ 更新網站資料庫至 189<br/>+ 新增藍牙斷線時朗讀自動停止的功能<br/>+ 更新部分 txt 檔章節目錄解析<br/>+ 設定的操作的朗讀新增語音引擎和語言選擇<br/>**BUGS**<br/>- 修正部份強制關閉的問題<br/>- 修正 Epub 部份章節內文無法載入問題<br/>- 修正部份內文圖檔載入問題<br/>- 修正備份匯入時，會自動開啟訂閱更新的功能<br/>- 修正部份網站無法跳至最後閱讀章節的問題
+<p><strong>v 6.0.0</strong><br/>+ 更新網站資料庫至 194<br/>+ 新增 TTS 聲音選擇<br/>+ 新增筆記支援最大 4000 字<br/>+ 支援線上匯入封存檔案<br/><strong>BUGS</strong><br/>- 修正部份強制關閉的問題<br/>- 修正部分朗讀中斷的問題<br/>- 修正多選加入最愛時，加入時間會是1970的問題<br/>- 修正開啟有問題的文字檔時，會導致閱讀畫面卡住不會顯示<br/>- 修正文字檔章節重複章節目錄問題<br/>- 修正 epub 章節目錄載入問題<br/></p>
 下載網址:<br/>
-<a href='https://filedn.eu/lkmMcadBs8d0YgVFV06o3vV/easyreader/apps/EasyReader_5.9.7.apk'>PCloud</a>　|　<a href='https://app.box.com/s/9hvacd74ppwrqwlpx19tf0r67cifd7fl'>Box</a><br/>
+<a href='https://filedn.eu/lkmMcadBs8d0YgVFV06o3vV/easyreader/apps/EasyReader_6.0.0.apk'>PCloud</a>　|　<a href='https://app.box.com/s/uyfb8iar2xf12hvgoh8cge409kgynckv'>Box</a><br/>
 "
 }
