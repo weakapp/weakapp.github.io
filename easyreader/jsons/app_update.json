@@ -1,12 +1,12 @@
 {
-	"version": "6.0.0",
-	"version_code" : 180,
-	"updatename": "EasyReader_6.0.0.apk",
+	"version": "6.0.3",
+	"version_code" : 186,
+	"updatename": "EasyReader_6.0.3.apk",
 	"updatefile": "https://play.google.com/store/apps/details?id=tw.clotai.easyreader",
 	"changelog": "
 <b>變更紀錄:</b>
-<p><strong>v 6.0.0</strong><br/>+ 更新網站資料庫至 194<br/>+ 新增 TTS 聲音選擇<br/>+ 新增筆記支援最大 4000 字<br/>+ 支援線上匯入封存檔案<br/><strong>BUGS</strong><br/>- 修正部份強制關閉的問題<br/>- 修正部分朗讀中斷的問題<br/>- 修正多選加入最愛時，加入時間會是1970的問題<br/>- 修正開啟有問題的文字檔時，會導致閱讀畫面卡住不會顯示<br/>- 修正文字檔章節重複章節目錄問題<br/>- 修正 epub 章節目錄載入問題<br/></p>
+<p><strong>v 6.0.3</strong><br/>+ 更新網站資料庫至 198<br/>+ 最愛分類新增搜尋功能<br/>+ 下載新增延遲與重試功能<br/><strong>BUGS</strong><br/>- 修正部份強制關閉的問題</p>
 下載網址:<br/>
-<a href='https://filedn.eu/lkmMcadBs8d0YgVFV06o3vV/easyreader/apps/EasyReader_6.0.0.apk'>PCloud</a>　|　<a href='https://app.box.com/s/uyfb8iar2xf12hvgoh8cge409kgynckv'>Box</a><br/>
+<a href='https://filedn.eu/lkmMcadBs8d0YgVFV06o3vV/easyreader/apps/EasyReader_6.0.3.apk'>PCloud</a>　|　<a href='https://app.box.com/s/lhe8c5xtf64783ckwj4vnip6daysrnic'>Box</a><br/>
 "
 }
